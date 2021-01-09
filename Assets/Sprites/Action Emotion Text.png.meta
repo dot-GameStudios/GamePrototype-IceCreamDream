@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: a9c99648769f51d419ed61d6a9fee662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2447192010904117550
+    second: Action Emotion Text_0
+  - first:
+      213: -4820663289910557438
+    second: Action Emotion Text_1
+  - first:
+      213: 7329724449905982463
+    second: Action Emotion Text_2
+  - first:
+      213: 6534454216765818646
+    second: Action Emotion Text_3
+  - first:
+      213: 8460242615988536067
+    second: Action Emotion Text_4
+  - first:
+      213: -4612262633205748613
+    second: Action Emotion Text_5
+  - first:
+      213: -5654006316348947457
+    second: Action Emotion Text_6
+  - first:
+      213: -5614491155878936555
+    second: Action Emotion Text_7
+  - first:
+      213: -2058817472948045832
+    second: Action Emotion Text_8
+  - first:
+      213: -2459153646031815760
+    second: Action Emotion Text_9
+  - first:
+      213: -7649117028031583533
+    second: Action Emotion Text_10
+  - first:
+      213: -1392059640095574013
+    second: Action Emotion Text_11
+  - first:
+      213: -6780673277032952538
+    second: Action Emotion Text_12
+  - first:
+      213: -7572191837311258203
+    second: Action Emotion Text_13
+  - first:
+      213: 7574858018651085662
+    second: Action Emotion Text_14
+  - first:
+      213: 2968247144841174808
+    second: Action Emotion Text_15
+  - first:
+      213: 2990542104943577999
+    second: Action Emotion Text_16
+  - first:
+      213: -2256848849839227667
+    second: Action Emotion Text_17
+  - first:
+      213: 2166027816997286623
+    second: Action Emotion Text_18
+  - first:
+      213: -6291380285695337161
+    second: Action Emotion Text_19
+  - first:
+      213: 1421336337186227430
+    second: Action Emotion Text_20
+  - first:
+      213: 4992374795084360052
+    second: Action Emotion Text_21
+  - first:
+      213: -7284894996825345807
+    second: Action Emotion Text_22
+  - first:
+      213: -1622251287543813534
+    second: Action Emotion Text_23
+  - first:
+      213: -6461608119663507614
+    second: Action Emotion Text_24
+  - first:
+      213: -2616374853253597654
+    second: Action Emotion Text_25
+  - first:
+      213: 3838351544590544817
+    second: Action Emotion Text_26
+  - first:
+      213: 2719719795537425933
+    second: Action Emotion Text_27
+  - first:
+      213: -5466925842361449458
+    second: Action Emotion Text_28
+  - first:
+      213: 1450039545754770416
+    second: Action Emotion Text_29
+  - first:
+      213: -5446792064376954737
+    second: Action Emotion Text_30
+  - first:
+      213: -3995141868631290006
+    second: Action Emotion Text_31
+  - first:
+      213: -4950895897840264521
+    second: Action Emotion Text_32
+  - first:
+      213: -5850288228155747220
+    second: Action Emotion Text_33
+  - first:
+      213: 3353446235616296038
+    second: Action Emotion Text_34
+  - first:
+      213: -1473186677757456440
+    second: Action Emotion Text_35
+  - first:
+      213: 543084224427525580
+    second: Action Emotion Text_36
+  - first:
+      213: -1511725376118017558
+    second: Action Emotion Text_37
+  - first:
+      213: -4442044027029516803
+    second: Action Emotion Text_38
+  - first:
+      213: -6666641713516830802
+    second: Action Emotion Text_39
+  - first:
+      213: 4588880192385621051
+    second: Action Emotion Text_40
+  - first:
+      213: 9155095507216687312
+    second: Action Emotion Text_41
+  - first:
+      213: -2602844442191137558
+    second: Action Emotion Text_42
+  - first:
+      213: -3086716823574226957
+    second: Action Emotion Text_43
+  - first:
+      213: -615403451491974348
+    second: Action Emotion Text_44
+  - first:
+      213: 6776208535035334646
+    second: Action Emotion Text_45
+  - first:
+      213: -7643793860109669257
+    second: Action Emotion Text_46
+  - first:
+      213: 4204287059639108094
+    second: Action Emotion Text_47
+  - first:
+      213: -4866660913624148562
+    second: Action Emotion Text_48
+  - first:
+      213: 512561530261800602
+    second: Action Emotion Text_49
+  - first:
+      213: -5647176674812220468
+    second: Action Emotion Text_50
+  - first:
+      213: -5244611366068508977
+    second: Action Emotion Text_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Action Emotion Text_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1051
+        width: 205
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ded2e4f4d3d90ed0800000000000000
+      internalID: -2447192010904117550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 909
+        width: 396
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058d1f5740991db0800000000000000
+      internalID: -4820663289910557438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 792
+        width: 286
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb342a7d8968b560800000000000000
+      internalID: 7329724449905982463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 682
+        width: 387
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61741673d7b0faa50800000000000000
+      internalID: 6534454216765818646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 569
+        width: 167
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034e9fb5d1d86570800000000000000
+      internalID: 8460242615988536067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 440
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca6f86293fdffb0800000000000000
+      internalID: -4612262633205748613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 312
+        width: 192
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c434263fe881b0800000000000000
+      internalID: -5654006316348947457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 353
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51083436a025512b0800000000000000
+      internalID: -5614491155878936555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Action Emotion Text_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 270
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7709b9a6c9d63e0800000000000000
+      internalID: -2058817472948045832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
