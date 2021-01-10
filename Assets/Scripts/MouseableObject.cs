@@ -7,7 +7,7 @@ public class MouseableObject : MonoBehaviour
     private bool active;
     private bool isGrabbed;
     private Camera mainCam;
-    private Rigidbody2D ObjectRigidbody;
+    private Rigidbody2D objectRigidbody;
 
 
     public Vector3 mousePos;
@@ -17,7 +17,7 @@ public class MouseableObject : MonoBehaviour
         active = true;
         mainCam = Camera.main;
         isGrabbed = false;
-        ObjectRigidbody = GetComponent<Rigidbody2D>();
+        objectRigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -54,19 +54,4 @@ public class MouseableObject : MonoBehaviour
         active = value;
     }
 
-    public void ChangeRigidBodyType(string newType)
-    {
-        if (newType == "Dynamic")
-        {
-            ObjectRigidbody.bodyType = RigidbodyType2D.Dynamic;
-        }
-        else if (newType == "Kinematic")
-        {
-            ObjectRigidbody.bodyType = RigidbodyType2D.Kinematic;
-        }
-        else if (newType == "Static")
-        {
-            ObjectRigidbody.bodyType = RigidbodyType2D.Static;
-        }
-    }
 }

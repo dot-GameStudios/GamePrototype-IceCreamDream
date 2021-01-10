@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PauseMenuScript : MonoBehaviour
+public class PauseMenu : Menu
 {
     private KeyCode PauseButton = KeyCode.Return;
     
     public static bool Paused = false;
     public GameObject MenuUI;
+    public GameObject LossMenuUI;
     // Update is called once per frame
     void Update()
     {
@@ -27,6 +28,13 @@ public class PauseMenuScript : MonoBehaviour
 
     public void Resume() {
         MenuUI.SetActive(false);
+        Time.timeScale = 1;
+        Paused = false;
+    }
+
+    public void Lose()
+    {
+        LossMenuUI.SetActive(true);
         Time.timeScale = 1;
         Paused = false;
     }
