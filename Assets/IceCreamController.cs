@@ -16,11 +16,6 @@ public class IceCreamController : MonoBehaviour
         gameManagerScript = FindObjectOfType<GameManager>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void SetEmotion(EmotionType emotion)
     {
@@ -32,9 +27,10 @@ public class IceCreamController : MonoBehaviour
         emotionWordSprite.sprite = emotionWord;
     }
 
-    public bool CompareEmotion()
+    public bool CompareEmotion() 
     {
-        if(iceCreamRB2DTrigger.Collider.gameObject.GetComponent<Topping>().currentEmotion == currentEmotion)
+        //compares the emotion state between the ice cream and the toppings. returns true if the same, returns false if they are different
+        if (iceCreamRB2DTrigger.Collider.gameObject.GetComponent<Topping>().currentEmotion == currentEmotion)
         {
             Destroy(iceCreamRB2DTrigger.Collider.gameObject);
             return true;

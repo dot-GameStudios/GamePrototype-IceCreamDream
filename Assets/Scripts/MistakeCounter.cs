@@ -14,12 +14,6 @@ public class MistakeCounter : MonoBehaviour
         mistakeIconIndex = 0;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public void AddMistake()
     {
         Animator XAnimator = mistakeIcons[mistakeIconIndex].GetComponent<Animator>();

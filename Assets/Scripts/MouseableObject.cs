@@ -17,7 +17,6 @@ public class MouseableObject : MonoBehaviour
         active = true;
         mainCam = Camera.main;
         isGrabbed = false;
-        objectRigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame

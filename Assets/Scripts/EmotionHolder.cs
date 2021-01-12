@@ -29,18 +29,6 @@ public class EmotionHolder : MonoBehaviour
 {
     public EmotionState[] emotions; //Holds the corresponding, enum, and sprites for each emotion
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public EmotionState GetEmotion(EmotionType emotionName) //Enum of what emotion you are looking for
     {
         for (int i = 0; i < emotions.Length; i++)
